@@ -1,4 +1,4 @@
 # labday
 
 Best Pokemon:
-Scizor
+Squirtle
