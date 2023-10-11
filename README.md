@@ -1,1 +1,4 @@
 # labday
+
+Best Pokemon:
+Scizor
