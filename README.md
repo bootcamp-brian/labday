@@ -2,3 +2,4 @@
 
 Best Pokemon:
 Scizor
+Bulbasaur
