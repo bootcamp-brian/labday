@@ -1,5 +1,7 @@
 # labday
 
 Best Pokemon:
-Scizor
-Bulbasaur
+
+Squirtle
+=======
+
