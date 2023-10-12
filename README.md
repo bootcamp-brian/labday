@@ -1,4 +1,6 @@
 # labday
 
 Best Pokemon:
-Gengar
+
+Squirtle
+
