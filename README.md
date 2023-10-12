@@ -1,4 +1,5 @@
 # labday
 
 Best Pokemon:
-Marowak
+
+Marowak & Gyarados
