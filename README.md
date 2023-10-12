@@ -2,7 +2,4 @@
 
 Best Pokemon:
 
-
-Gyarados
-
-
+Marowak & Gyarados
