@@ -3,5 +3,4 @@
 Best Pokemon:
 
 Squirtle
-=======
 
