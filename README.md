@@ -2,5 +2,5 @@
 
 Best Pokemon:
 
-Squirtle
+Gyarados
 
